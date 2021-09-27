@@ -7,15 +7,21 @@ Typescript, Redux, SASS, Jest and Storybook.
 
 ## Table of Contents
 
-Getting started
+Getting Started
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Install](#install)
 - [Commands](#commands)
+
+Using This Template
+
 - [Usage](#usage)
 - [Recommended Directory Structure](#recommended-directory-structure)
 - [Changing Default Ports](#changing-default-ports)
+
+Other
+
 - [Contributing](#contributing)
 
 # Features
