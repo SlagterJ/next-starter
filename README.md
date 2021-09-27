@@ -16,6 +16,7 @@ Getting started
 - [Usage](#usage)
 - [Recommended Directory Structure](#recommended-directory-structure)
 - [Changing Default Ports](#changing-default-ports)
+- [Contributing](#contributing)
 
 # Features
 
