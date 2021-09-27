@@ -287,6 +287,8 @@ a navigation bar on every page, for example.
 
 `index.tsx` is your home page at the base of the url.
 
+`404.tsx` shows up on routes that don't exist.
+
 URL parameters can be used like shown in `profile/[id].tsx` here.
 For more info on this read the NextJS docs.
 
