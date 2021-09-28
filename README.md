@@ -160,6 +160,23 @@ Yarn
 yarn build-storybook
 ```
 
+### Export Project To Static HTML
+
+Lets you get static HTML files that you can deply on a simple
+Apache/Nginx server.
+
+NPM
+
+```sh
+npm run export
+```
+
+Yarn
+
+```
+yarn export
+```
+
 ### Build Project
 
 Lets you build your entire project into a deployable, minimised
