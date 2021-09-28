@@ -3,6 +3,21 @@
 Next Starter is a starter template repository I made including
 Typescript, Redux, SASS, Jest and Storybook.
 
+## = [Features](#features) - [Usage](#usage) - [Contributing](#contributing) =
+
+```
+                 _  _
+                ( \/ )
+         .---.   \  /   .-"-.
+        /   6_6   \/   / 4 4 \
+        \_  (__\       \_ v _/
+        //   \\        //   \\
+       ((     ))      ((     ))
+========""===""========""===""=======
+          |||            |||
+           |              |
+```
+
 ---
 
 ## Table of Contents
