@@ -37,9 +37,9 @@ Other
 
 # Prerequisites
 
-- [Git]("https://git-scm.com/downloads")
-- [NodeJS]("https://nodejs.org/en/download/")
-- [Yarn]("https://yarnpkg.com/getting-started/install") (If you feel like it.)
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en/download/)
+- [Yarn](https://yarnpkg.com/getting-started/install) (If you feel like it.)
 
 # Install
 
