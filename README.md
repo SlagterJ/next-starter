@@ -173,7 +173,7 @@ npm run export
 
 Yarn
 
-```
+```sh
 yarn export
 ```
 
