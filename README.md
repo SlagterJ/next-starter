@@ -109,6 +109,22 @@ Yarn
 yarn test
 ```
 
+### Lint
+
+Start ESLint linting.
+
+NPM
+
+```sh
+npm run lint
+```
+
+Yarn
+
+```
+yarn lint
+```
+
 ### Launch Storybook
 
 Launches a Storybook server on http://localhost:6006 that
