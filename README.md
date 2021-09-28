@@ -200,6 +200,9 @@ included, refer to the following pages.
 [React Redux](https://react-redux.js.org/introduction/getting-started)
 <br />
 
+[Next Redux Wrapper](https://github.com/kirill-konshin/next-redux-wrapper#usage)
+<br />
+
 [SASS](https://sass-lang.com/guide)
 <br />
 
