@@ -121,7 +121,7 @@ npm run lint
 
 Yarn
 
-```
+```sh
 yarn lint
 ```
 
@@ -133,13 +133,13 @@ will automatically reload when changes are made.
 
 NPM
 
-```
+```sh
 npm run storybook
 ```
 
 Yarn
 
-```
+```sh
 yarn storybook
 ```
 
@@ -150,13 +150,13 @@ deploy.
 
 NPM
 
-```
+```sh
 npm run build-storybook
 ```
 
 Yarn
 
-```
+```sh
 yarn build-storybook
 ```
 
@@ -167,13 +167,13 @@ web app compatible with Vercel by default.
 
 NPM
 
-```
+```sh
 npm run build
 ```
 
 Yarn
 
-```
+```sh
 yarn build
 ```
 
