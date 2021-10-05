@@ -1,3 +1,4 @@
+import "normalize.css";
 import { AppProps } from "next/app";
 import wrapper from "../app/store";
 
