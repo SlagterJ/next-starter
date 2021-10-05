@@ -49,7 +49,7 @@ Other
 - Jest pre-configured to let you unit test without the headaches
   of configuring it.
 - Storybook working out-of-the-box with Next and SASS modules.
-- Delivered with normalize.css
+- Delivered with normalize.css.
 
 # Prerequisites
 
