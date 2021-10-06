@@ -236,7 +236,7 @@ npm run format
 YARN
 
 ```sh
-yarn run format
+yarn format
 ```
 
 # Usage
