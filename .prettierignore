@@ -1,0 +1,21 @@
+# Directories to ignore
+dist/
+.next/
+.storybook/
+node_modules/
+
+# Yarn/NPM files
+package.json
+package-lock.json
+yarn.lock
+
+# Jest configuration files
+jest.config.js
+jest.setup.js
+
+# Next configuration files
+next-env.d.ts
+next.config.js
+
+# Typescript configuration files
+tsconfig.json
